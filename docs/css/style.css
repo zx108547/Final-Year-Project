@@ -338,10 +338,6 @@ Articles
 .articles {
   position: relative;
   width: 90%;
-<<<<<<< HEAD
-=======
- 
->>>>>>> bf3abad3d58fb471957d6ea664d2845cc0079433
   margin: 0 auto 15em;
 }
 .articles::before {
