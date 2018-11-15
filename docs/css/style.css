@@ -338,7 +338,6 @@ Articles
 .articles {
   position: relative;
   width: 90%;
-  max-width: 650px;
   margin: 0 auto 15em;
 }
 .articles::before {
@@ -370,7 +369,7 @@ Articles
 }
 @media only screen and (min-width: 1100px) {
   .articles {
-    width: 1070px;
+    width: 970px;
     max-width: none;
     margin-bottom: 5em;
   }
