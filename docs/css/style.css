@@ -372,7 +372,7 @@ Articles
   .articles {
     width: 970px;
     max-width: none;
-    margin-left: 100px;
+    padding-right: 320px;
     margin-bottom: 5em;
   }
   .articles::before {
