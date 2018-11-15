@@ -338,7 +338,7 @@ Articles
 .articles {
   position: relative;
   width: 90%;
-  max-width: 650px;
+ 
   margin: 0 auto 15em;
 }
 .articles::before {
